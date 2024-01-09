@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Kau%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 
 
@@ -18,11 +18,11 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
 <div align="center">
-  <a href="https://github.com/wendellast">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/kaudev3">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=kaudev&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/wendellast"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
+  <a href="https://github.com/kaudev3"></a>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaudev&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
 <br><br>
